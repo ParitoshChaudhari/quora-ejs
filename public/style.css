@@ -1,0 +1,47 @@
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px 5px 10px 5px;
+    border-radius: 8px;
+}
+
+.user{
+    font-style:italic ;
+}
+
+.btn-view-details{
+    width: auto;
+    height: auto;
+    background-color: rgba(184, 238, 220, 0.94);
+    color: #000;
+    padding: 6px;
+    border-radius: 9px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+
+.edit{
+    background-color: rgba(187, 128, 244, 0.856);
+}
+
+button{
+    margin-top: 25px;
+    border-style:none ;
+    background-color: red;
+    color:#FFF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.create-btn{
+    background-color: rgb(114, 254, 114);
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 8px;
+}
